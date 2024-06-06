@@ -1,4 +1,4 @@
-# spotify-clone
+# Spotify Clone
 
 # Overview :    
 • The Spotify Clone is a web application that mimics the core features and functionalities of the popular music streaming service Spotify    
