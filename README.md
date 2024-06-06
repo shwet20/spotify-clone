@@ -11,4 +11,8 @@
 • Search Functionality    
 • Playlists    
 • User Library    
-• Responsive Design    
+• Responsive Design   
+
+![Spotify Clone Home Page](assets/SpotifyHomePage.png)
+![Spotify Clone Log In Page](assets/SpotifyLogInPage.png)
+![Spotify Clone Web Page](assets/SpotifyWebPage.png)
